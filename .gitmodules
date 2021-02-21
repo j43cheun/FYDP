@@ -1,0 +1,9 @@
+[submodule "FYDPGarbageMan"]
+	path = FYDPGarbageMan
+	url = https://github.com/j43cheun/FYDPGarbageMan.git
+[submodule "FYDPGarbageBinFirmware"]
+	path = FYDPGarbageBinFirmware
+	url = https://github.com/j43cheun/FYDPGarbageBinFirmware.git
+[submodule "FYDPGarbageBinServer"]
+	path = FYDPGarbageBinServer
+	url = https://github.com/j43cheun/FYDPGarbageBinServer.git
